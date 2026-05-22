@@ -1,7 +1,5 @@
 """
 Demo VSL - Nhan dang Bang chu cai Ky hieu Tieng Viet
-Phien ban v3 - Fix distribution shift (hand cropping)
-Fix font tieng Viet bang Pillow (cv2.putText khong ho tro Unicode)
 ========================================================
 Yeu cau:
     pip install opencv-python mediapipe torch torchvision pillow
