@@ -101,6 +101,8 @@ python collect_data.py
 
 Dữ liệu thu thập lưu tại: `data/<TEN_KY_HIEU>/frame_XXXX.jpg`
 
+![alt text](Dataset_grid.png)
+
 ### 3. Đánh giá mô hình trên dữ liệu thực tế
 
 ```bash
